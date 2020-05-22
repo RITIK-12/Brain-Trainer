@@ -1,0 +1,1 @@
+This an Android Oreo based app called Brain Trainer.This is a simple math quiz game which questions about addition of random numbers.In this game user will have 30sec to answer as many as possible questions by selecting correct option. At last he/she may also see his/her score as well as have option to play again.
